@@ -1,31 +1,37 @@
-## JavaScript Weather App
+# JavaScript Weather App
 
-This is a simple JavaScript weather app that uses the OpenWeatherMap API to fetch the current weather data for a given location.
+A simple weather app built using JavaScript that fetches weather data from the OpenWeatherMap API.
 
-### Getting Started
+## Table of Contents
 
-1. Clone the repo:
-Use code with caution. Learn more
-git clone https://github.com/bard/javascript-weather-app.git
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [API Key](#api-key)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
 
-2. Install the dependencies:
-npm install
+## Features
 
-3. Set your OpenWeatherMap API key in the `.env` file:
-OPENWEATHERMAP_API_KEY=YOUR_API_KEY
+- Display current weather information for a specified location.
+- Temperature in Celsius and Fahrenheit.
+- Weather description and icon.
 
-4. Start the app:
-npm start
+## Getting Started
 
-Usage
-The app will open a web browser window with the current weather data for your location. You can enter a different location in the search bar to see the weather for that location.
+### Prerequisites
 
-Features
-Displays the current temperature, humidity, wind speed, and weather condition for a given location.
-Supports both Celsius and Fahrenheit temperature units.
-Uses the OpenWeatherMap API to fetch the weather data.
-Contributing
-If you have any suggestions or bug fixes, please feel free to open a pull request.
+To run this project, you will need:
 
-License
-This project is licensed under the MIT License.
+- A code editor (e.g., Visual Studio Code, Sublime Text, or any text editor of your choice).
+### Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Invisible-Bot-Java/JS-Weather-app
+2. Open Index.html File   
+

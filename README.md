@@ -8,11 +8,7 @@ A simple weather app built using JavaScript that fetches weather data from the O
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [API Key](#api-key)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
